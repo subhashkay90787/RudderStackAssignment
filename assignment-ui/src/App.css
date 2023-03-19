@@ -16,17 +16,10 @@
   pointer-events: none;
 }
 .body{
-  width: 50%;
-  margin-left: 25%;
-  margin-right: 25%;
+ 
 
-  background: beige;
 }
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
+
 
 .App-header {
   background-color: #282c34;
