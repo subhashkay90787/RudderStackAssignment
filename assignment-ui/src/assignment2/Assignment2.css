@@ -1,0 +1,42 @@
+.assignment {
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+.form{
+    margin: auto;
+    padding: 2%;
+}
+
+.eventForm{
+    padding: 9%
+}
+
+button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 5px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-top: 5px;
+}
+
+.errorMessage{
+    color: red;
+    font-size: x-small;
+}
+
+.row{
+    display:flex;
+    justify-content: space-between;
+}
+
+.block{
+    margin-left: 5%;
+    margin-right: 5%;
+}
